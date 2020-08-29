@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{3BB96620-150C-42D1-B5B5-0353CA938964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlingPoC.Api", "CrawlingPoC.Api\CrawlingPoC.Api.csproj", "{52BCF2D2-DAA8-4DC1-989B-D731929F2892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52BCF2D2-DAA8-4DC1-989B-D731929F2892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BCF2D2-DAA8-4DC1-989B-D731929F2892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BCF2D2-DAA8-4DC1-989B-D731929F2892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BCF2D2-DAA8-4DC1-989B-D731929F2892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{52BCF2D2-DAA8-4DC1-989B-D731929F2892} = {3BB96620-150C-42D1-B5B5-0353CA938964}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DDAF179-87E5-4663-B50E-B434183D9119}
+	EndGlobalSection
+EndGlobal
